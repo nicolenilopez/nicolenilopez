@@ -25,7 +25,7 @@ My background in web development and graphic design has definitely influenced ho
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/✦_Currently_open_to_new_opportunities_in_Power_BI_%26_Business_Intelligence-C1A5F7?style=flat&labelColor=0D1117&color=C1A5F7" alt="Open to new opportunities" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=17&color=C1A5F7&width=750&height=35&repeat=false&lines=%E2%9C%A6+Currently+open+to+new+opportunities+in+Power+BI+Development+and+Business+Intelligence." alt="Currently open to new opportunities in Power BI Development and Business Intelligence." />
 </p>
 
 <!-- Tools & Technologies -->
