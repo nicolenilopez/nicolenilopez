@@ -24,11 +24,7 @@ I enjoy the process of bringing everything together, from data modeling and DAX 
 My background in web development and graphic design has definitely influenced how I approach my work. I care just as much about creating something that works well as I do about making it clear and visually appealing.
 </p>
 
-<p>
-  <span style="font-family: 'Outfit', sans-serif; font-size: 17px; color: #C1A5F7;">
-    ✦ Currently open to new opportunities in Power BI Development and Business Intelligence.
-  </span>
-</p>
+$\color{#C1A5F7}\textsf{✦ Currently open to new opportunities in Power BI Development and Business Intelligence.}$
 
 <!-- Tools & Technologies -->
 <h3>♡ Tools & Technologies</h3>
