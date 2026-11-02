@@ -25,7 +25,9 @@ My background in web development and graphic design has definitely influenced ho
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=17&color=C1A5F7&width=750&height=35&repeat=false&lines=%E2%9C%A6+Currently+open+to+new+opportunities+in+Power+BI+Development+and+Business+Intelligence." alt="Currently open to new opportunities in Power BI Development and Business Intelligence." />
+  <span style="font-family: 'Outfit', sans-serif; font-size: 17px; color: #C1A5F7;">
+    ✦ Currently open to new opportunities in Power BI Development and Business Intelligence.
+  </span>
 </p>
 
 <!-- Tools & Technologies -->
